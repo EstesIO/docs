@@ -11,8 +11,6 @@ tags:
 
 There is a __TON__ of practical, online training and learning resources available. See for yourself below...
 
-This [awesome list of free training](https://coopsec.github.io/talk/MegaList/) is also definitely worth checking out!
-
 # General Security
 * [Cybrary](https://www.cybrary.it) [FREE/PAID]
 * [Coursera](https://www.coursera.org) [FREE/PAID]
